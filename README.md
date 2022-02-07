@@ -1,4 +1,10 @@
-### Hola, Soy Juan Pablo👋
+<div align="center"><img width="200px" src="https://2.bp.blogspot.com/-8xIaanujb8w/XXkLacCT8dI/AAAAAAAA3Pc/J2Mkb_thatEQOZLqacYHd5NsPGE9iY6-gCLcBGAsYHQ/s1600/rey10044.gif" /></div>
+<h1 align="center">Hi, I'm Juan Pablo👋</h1>
+<h3 align="center">I love science fiction, movies, series, video games and listening to music.</h3>
+<br/>
+<div align="center">
+💻I'm a <b>future developer<b>
+</div>
 
 <!--
 **Kaiael24/Kaiael24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
