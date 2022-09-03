@@ -6,9 +6,7 @@
 💻I'm a <b>future developer<b>
 </div>
   
-[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
-[![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)](http://ForTheBadge.com)
-[![ForTheBadge winter-is-coming](http://ForTheBadge.com/images/badges/winter-is-coming.svg)](http://ForTheBadge.com)
+
   
 [![Linkedin: Juan Pablo Palacios](https://img.shields.io/badge/-Juan%Pablo%Palacios-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jp-palacios/)](https://www.linkedin.com/in/jp-palacios/)
   
