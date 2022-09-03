@@ -5,6 +5,9 @@
 <div align="center">
 💻I'm a <b>future developer<b>
 </div>
+[![Linkedin: Juan Pablo Palacios](https://img.shields.io/badge/-Juan%Pablo%Palacios-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jp-palacios/)](https://www.linkedin.com/in/jp-palacios/)
+
+[![Linkedin Badge](https://img.shields.io/badge/-Juan%Pablo%Palacios-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/jp-palacios/)](https://www.linkedin.com/in/jp-palacios/)
 
 <!--
 **Kaiael24/Kaiael24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,3 +23,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
