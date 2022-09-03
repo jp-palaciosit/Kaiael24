@@ -7,6 +7,7 @@
 </div>
 [![Linkedin: Juan Pablo Palacios](https://img.shields.io/badge/-Juan%Pablo%Palacios-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jp-palacios/)](https://www.linkedin.com/in/jp-palacios/)
 
+  [![Linkedin Badge](https://img.shields.io/badge/-Vedant%20Khairnar-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/vedantkhairnar/)](https://www.linkedin.com/in/vedantkhairnar/)
 [![Linkedin Badge](https://img.shields.io/badge/-Juan%Pablo%Palacios-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/jp-palacios/)](https://www.linkedin.com/in/jp-palacios/)
 
 <!--
