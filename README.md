@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/Juan%20Pablo%20Palacios-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/jp-palacios/)](https://www.linkedin.com/in/jp-palacios/)
 
 ><p font-size="100px">
->Me considero una persona muy curiosa, que encuentra constantemente desafíos y oportunidades de superarse a sí mismo. A lo largo de los diversos >empleos que he tenido adquirí las herramientas necesarias para el trabajo en equipo, como así aquellas requeridas para el trabajo individual. >Entre mis principales características destacan la gestión y organización de tiempo, la comunicación efectiva y la creatividad para reconocer y >resolver diversas situaciones. También poseo la capacidad de incorporar rápidamente nuevas habilidades a medida que se requieran. 
+>Me considero una persona muy curiosa, que encuentra constantemente desafíos y oportunidades de superarse a sí mismo. A lo largo de los diversos empleos que he tenido adquirí las herramientas necesarias para el trabajo en equipo, como así aquellas requeridas para el trabajo individual. Entre mis principales características destacan la gestión y organización de tiempo, la comunicación efectiva y la creatividad para reconocer y resolver diversas situaciones. También poseo la capacidad de incorporar rápidamente nuevas habilidades a medida que se requieran. 
 ></p>
 
     
