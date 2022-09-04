@@ -1,4 +1,4 @@
-<h2> Hi, I'm Juan Pablo and I'm a programmer.👋💻 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Juan Pablo and I'm a programmer.👋💻 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> <img src="https://i.pinimg.com/originals/1e/d2/8b/1ed28b2caec3bd09739d7bcfde0a8ee3.gif" width="50"></h2>
 <img align='right' src="https://2.bp.blogspot.com/-8xIaanujb8w/XXkLacCT8dI/AAAAAAAA3Pc/J2Mkb_thatEQOZLqacYHd5NsPGE9iY6-gCLcBGAsYHQ/s1600/rey10044.gif" width="230">
 
 <span left-margin="10px" font-size="50px">📧 jp.palaciosit@gmail.com</span>
