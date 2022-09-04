@@ -12,6 +12,8 @@
   
 [![Linkedin Badge](https://img.shields.io/badge/-Juan%Pablo%Palacios-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/jp-palacios/)](https://www.linkedin.com/in/jp-palacios/)
 
+---
+  
 <div align="left">
     <h3>Languages and Tools:</h3>
     <div>
@@ -33,7 +35,16 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" title="Ae"  alt="Ae" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="IA"  alt="IA" width="40" height="40"/>&nbsp;
 </div>
-
+  
+  
+---  
+  
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kaiael24&theme=cobalt&hide_border=true&date_format=j%20M%5B%20Y%5D&background=000000&currStreakLabel=DD4EC6&dates=52C2DD&ring=52C2DD&stroke=DDDDDD&fire=DD4EC6&sideNums=52C2DD&currStreakNum=52C2DD&sideLabels=DD4EC6)](https://git.io/streak-stats)
+  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaiael24&show_icons=true&theme=radical)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiael24&layout=compact&bg_color=000000&text_color=DDDDDD&title_color=DD4EC6)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
