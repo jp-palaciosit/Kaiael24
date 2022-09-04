@@ -1,16 +1,20 @@
-<div align="center"><img width="200px" src="https://2.bp.blogspot.com/-8xIaanujb8w/XXkLacCT8dI/AAAAAAAA3Pc/J2Mkb_thatEQOZLqacYHd5NsPGE9iY6-gCLcBGAsYHQ/s1600/rey10044.gif" /></div>
-<h1 align="center">Hi, I'm Juan Pablo👋</h1>
-<h3 align="center">I love science fiction, movies, series, video games and listening to music.</h3>
-<br/>
-<div align="center">
-💻I'm a <b>future developer<b>
-</div>
-  
+<h1 align="center">Hi, I'm Juan Pablo and I'm a programmer.👋💻</h1>
+    <h3 align="center">I love science fiction, movies, series, video games and listening to music.</h3>
+    <div display: flex;>
+    <div width: 75%>
+    <p font-size:20px>
+    Me considero una persona muy curiosa, que encuentra constantemente desafíos y oportunidades de superarse a sí mismo. A lo largo de los diversos empleos que he tenido adquirí las herramientas necesarias para el trabajo en equipo, como así aquellas requeridas para el trabajo individual. Entre mis principales características destacan la gestión y organización de tiempo, la comunicación efectiva y la creatividad para reconocer y resolver diversas situaciones. También poseo la capacidad de incorporar rápidamente nuevas habilidades a medida que se requieran. 
+    </p>
+    </div>
+    <img width="250px" src="https://2.bp.blogspot.com/-8xIaanujb8w/XXkLacCT8dI/AAAAAAAA3Pc/J2Mkb_thatEQOZLqacYHd5NsPGE9iY6-gCLcBGAsYHQ/s1600/rey10044.gif" />
+   </div>
 
-  
+  <!--
 [![Linkedin: Juan Pablo Palacios](https://img.shields.io/badge/-Juan%Pablo%Palacios-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jp-palacios/)](https://www.linkedin.com/in/jp-palacios/)
   
 [![Linkedin Badge](https://img.shields.io/badge/-Juan%Pablo%Palacios-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/jp-palacios/)](https://www.linkedin.com/in/jp-palacios/)
+
+  -->
 
 ---
   
