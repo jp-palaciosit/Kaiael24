@@ -47,9 +47,9 @@
 ---  
 <h3>Statistics:</h3>  
   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jp-palaciosit24&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jp-palaciosit&show_icons=true&theme=radical)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jp-palaciosit24&layout=compact&bg_color=000000&text_color=DDDDDD&title_color=DD4EC6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jp-palaciosit&layout=compact&bg_color=000000&text_color=DDDDDD&title_color=DD4EC6)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
